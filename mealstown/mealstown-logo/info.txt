@@ -1,0 +1,15 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Baloo-Regular
+font link: https://fonts.google.com/specimen/Baloo
+font author: Ek Type
+font author site: https://ektype.in/
+
+
+
+fontColor: {"hex":"#ffffff"}
+bgColor: {"hex":"#00B14F"}
+
+
+      
